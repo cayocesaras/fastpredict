@@ -16,12 +16,6 @@ import streamlit.components.v1 as components
 # Definindo o layout da aplicacao
 st.set_page_config(page_title='FastPredict',layout="wide")
 
-<<<<<<< HEAD
-=======
-# Definindo os estilos da pagina
-#components.html("<html><body style='background-color: blue'><h1 style='color: red'>FastPredict!</h1><body></html>",width=200,height=200)
-
->>>>>>> 006add0b7bc8ca153ca6ffbcccb05a4fcf9ac1e6
 # Codificacao de arquivos
 encoding = ["utf-8","latin1","iso-8859-1"]
 
@@ -30,11 +24,6 @@ HOJE = date.today().strftime("%Y-%m-%d")
 
 # Pegando imagem da aplicacao
 image = Image.open('icone.png')
-<<<<<<< HEAD
-
-=======
->>>>>>> 006add0b7bc8ca153ca6ffbcccb05a4fcf9ac1e6
-#st.sidebar.image(image, caption='', width=100)
 
 # Logo da aplicacao
 st.image(image, caption='', width=100)
