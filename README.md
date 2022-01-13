@@ -14,3 +14,5 @@ simples e rápida. É só seguir o passo a passo:
 
 obs.: se houverem muitos dados e quiser usar um campo para realizar um filtro ex.: cliente,
 selecione a coluna para realiazar a filtragem após o Quinto passo, e depois escolha o filtro.
+
+Gostou? Teste agora mesmo: [FastPredict](https://share.streamlit.io/cayocesaras/fastpredict/app.py)
